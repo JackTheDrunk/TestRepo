@@ -1,2 +1,5 @@
 # TestRepo
-Instructred by Coursera to create Repository. 
+
+# Editing the file
+
+It's a markdown file in this repository
